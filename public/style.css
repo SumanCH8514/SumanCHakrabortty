@@ -43,6 +43,15 @@ body {
     text-align: center;
     padding: 10px;
     background-color: #f1f1f1;
-    text-decoration-style: none;
+    
+  }
+  footer a {
+    font-weight: bold;
+    text-decoration: none;
+  }
+  header img {
+
+    mix-blend-mode: multiply;
+    size-adjust: 40%;
   }
   
