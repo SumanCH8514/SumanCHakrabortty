@@ -30,13 +30,19 @@ hr {
 }
 #time {
   background-color: rgb(143, 201, 201);
+  border: 2px solid black;
+  font-weight: bold;
 }
 #day,
 #mtitle {
   background-color: antiquewhite;
+  border: 2px solid black;
+  font-weight: bold;
 }
 #Tiffin {
   background-color: rgb(215, 255, 53);
+  border: 2px solid black;
+  font-weight: bold;
 }
 #htmllab {
   background-image: radial-gradient(green, yellow, pink, white);
@@ -46,32 +52,49 @@ hr {
 }
 #DigitalTransformation {
   background-color: rgb(199, 210, 219);
+  border: 2px solid black;
   font-weight: bold;
 }
 #Prerequiredsite {
   background-color: rgb(127, 208, 105);
+  border: 2px solid black;
   font-weight: bold;
 }
 #mathNajnin {
   background-color: rgb(79, 146, 255);
+  border: 2px solid black;
   font-weight: bold;
 }
 #MIL {
   background-color: rgb(197, 147, 32);
+  border: 2px solid black;
   font-weight: bold;
 }
 #InterPersonal {
   background-color: rgb(255, 130, 20);
+  border: 2px solid black;
+  font-weight: bold;
 }
 #DSA {
   background-color: chocolate;
+  border: 2px solid black;
+  font-weight: bold;
 }
 #DigitalAnalog {
   background-color: rgb(165, 170, 170);
+  border: 2px solid black;
+  font-weight: bold;
 }
 #EVS {
   background-color: rgb(185, 161, 130);
+  border: 2px solid black;
+  font-weight: bold;
 }
 #DSApradip {
   background-color: rgb(182, 93, 29);
+  border: 2px solid black;
+  font-weight: bold;
+}
+span {
+  font-weight: normal;
 }
