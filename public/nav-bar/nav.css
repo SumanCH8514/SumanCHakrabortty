@@ -106,3 +106,26 @@ a:hover {
   }
 }
 /* main body */
+#mainBody {
+  height: 500px;
+  width: 100vw;
+  border: 1px dashed;
+}
+/* footer */
+.footer {
+  background-color: #1066bb;
+  height: 100%;
+  width: 100vw;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 60px;
+  gap: 3.5rem;
+}
+.footer-col h4 {
+  text-decoration: underline;
+}
+.footer-col ul a {
+  color: white;
+  padding-bottom: 20px;
+}
