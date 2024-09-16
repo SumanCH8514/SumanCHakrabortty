@@ -1,0 +1,62 @@
+#logo {
+  position: relative;
+  margin-left: 45%;
+  mix-blend-mode: multiply;
+  padding-top: 2%;
+}
+.header1 {
+  text-align: center;
+  line-height: 0.9;
+}
+#gradeTable {
+  text-align: center;
+}
+table {
+  margin: auto;
+}
+#RESULT1 {
+  text-align: center;
+  font-size: 12px;
+  /* line-height: 0.3; */
+}
+/* Coloring>>> */
+h1 {
+  color: rgb(7, 60, 29);
+}
+h3 {
+  color: brown;
+}
+* {
+  /* background-color: rgb(73, 193, 230); */
+}
+span {
+  font-weight: bold;
+}
+body {
+  background-color: rgb(73, 193, 230);
+}
+#contener {
+  border: 1px dashed;
+  background-color: white;
+  width: 60%;
+  height: 80%;
+  margin: auto;
+  margin-top: 3%;
+}
+#download {
+  text-align: center;
+  font-weight: bold;
+  padding: 2px;
+  /* border: 2px solid; */
+  border-radius: 5px;
+  /* display: inline; */
+}
+#download a {
+  text-decoration: none;
+  color: black;
+  border-radius: 5px;
+}
+#download :hover {
+  font-weight: bold;
+  color: blue;
+}
